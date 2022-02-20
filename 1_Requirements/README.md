@@ -6,7 +6,7 @@
 
 2. It Should not get reset when turned off.
 
-3. It Should be able to macth the timezones as required.
+3. It Should be able to match the timezones as required.
 
 ## High Level Requirements
 |ID|Description|Category|
