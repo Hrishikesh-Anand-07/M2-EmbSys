@@ -49,9 +49,8 @@
 
 
 ## Low Level Requirements
-**ID** __________________________ **Description**
-
-LLR_01 __________________________ Circuit Design
-
-LLR_02 __________________________ Simulation
+|ID|Description|
+|:-|:----------|
+|LLR_01|Circuit Design|
+|LLR_02|Simulation|
  
