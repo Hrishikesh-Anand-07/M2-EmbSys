@@ -4,4 +4,6 @@
 
 ## Washing Machine Case Study - II
 
+![Washing Machine](https://user-images.githubusercontent.com/98881640/154894111-2611f8fc-08cc-44f3-a003-1e3dc7350f1d.png)
+
 
