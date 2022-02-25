@@ -51,3 +51,7 @@
 **Where** - Wherever he is.
  
  **How** - By using Atmega328 microcontroller and SimulIDE.
+ ------------------------------------------------------------------------------------
+## BLOCK DIAGRAM
+![DigitalClock](https://user-images.githubusercontent.com/98881640/155761129-721b4c8d-eefa-45f9-b45b-4311c40ae582.png)
+
