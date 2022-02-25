@@ -24,13 +24,14 @@
 * This system consists of relays and transformer which are controlled by the micro controller.
 ## Magnetron
 * This is activated according to the user selected input with the help of microcontroller.
-## Actuator(Temp cut off switches)
+## Temperature Sensor
 * Cuts off the power supply by switching off if temperature exceeds certain limit.
 ## HVAC Control unit
 * Heats and cools the system according to the temperature with the help of microcontroller
 ## MicroController
 * Performs all the important operations and helps our oven to work correctly without any damages by controlling all the inputs and outputs accordingly.
 
+---------------------------------------------------------------------------------------------------------------------------------------
 
 ## Washing Machine Case Study - II
 
