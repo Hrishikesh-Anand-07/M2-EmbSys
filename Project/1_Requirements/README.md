@@ -1,7 +1,5 @@
 # Digital Clock
-
 ## Description
-
 It Displays Time in hours and Minutes. It Should be able to match the timezones as required. It is also used to fix alarm.
 
 ## High Level Requirements
