@@ -40,11 +40,11 @@ Memory module which store Data memory and Program memory respectively
 
 ## Relays and voltage Control Unit
 
-This system consists of relays and transformer which are controlled by the micro controller.
+It consists of relays and transformer which are controlled by the micro controller.
 
 ## Magnetron
 
-This is activated according to the user selected input with the help of microcontroller.
+It is activated according to the user selected input with the help of microcontroller.
 
 ## Temperature Sensor
 
