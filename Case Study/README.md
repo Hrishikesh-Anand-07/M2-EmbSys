@@ -6,7 +6,7 @@
 
 Displays the amount of time we set for cooking and different modes of cooking.
 
-## Buttons/Touch Screen 
+## Buttons / Touch Screen 
 
 Helps us in selecting time and mode of cooking.
 
