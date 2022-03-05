@@ -3,14 +3,19 @@
 ![Microwave Oven Block Diagram](https://user-images.githubusercontent.com/98881640/154886821-fbe6f7f2-7ec0-4587-918a-93d98e401772.png)
 
 ## LCD Display
+
 * Displays the amount of time we set for cooking and different modes of cooking.
 
 ## Buttons/Touch Screen 
+
 * Helps us in selecting time and mode of cooking.
 
 ## Safety Sensor
+
 * This Safety lock sensor gives data to Micro Controller whether door is open or close while cooking. 
+
 ## Actuator (Safety Lock)
+
 * Stops the oven if door is open while cooking
 ## Motor Driver
 * Used to drive the motor (Actuator)
