@@ -12,7 +12,7 @@ Helps us in selecting time and mode of cooking.
 
 ## Safety Sensor
 
-This gives data to Micro Controller whether door is open or close while cooking. 
+Gives data to Micro Controller whether door is open or close while cooking. 
 
 ## Actuator (Safety Lock)
 
@@ -24,19 +24,19 @@ Used to drive the motor (Actuator).
 
 ## Actuator (Motor)
 
-Rotates the food while cooking with the help of base plate so that food is cooked uniformly.
+Rotates the food while cooking with base plate so that food is cooked uniformly.
 
 ## Clock
 
-This is used to synchronize the Micro controller with other activities.
+Used to synchronize the Micro controller with other activities.
 
 ## Sensor (Heat Detector)
 
-This sensor gives temperature values to Micro controller and then the HVAC control unit is worked accordingly.
+Gives temperature to Micro controller and HVAC control unit to worked accordingly.
 
 ## ROM
 
-This is a memory module which store Data memory and Program memory respectively
+Memory module which store Data memory and Program memory respectively
 
 ## Relays and voltage Control Unit
 
