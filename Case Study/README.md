@@ -56,4 +56,4 @@ Heats and cools the system according to the temperature with the help of microco
 
 ## MicroController
 
-Performs all the important operations and helps our oven to work correctly without any damages by controlling all the inputs and outputs accordingly.
+Performs all the important operations and helps the oven to work correctly.
