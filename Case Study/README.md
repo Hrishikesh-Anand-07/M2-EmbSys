@@ -32,7 +32,6 @@
 * Heats and cools the system according to the temperature with the help of microcontroller
 ## MicroController
 * Performs all the important operations and helps our oven to work correctly without any damages by controlling all the inputs and outputs accordingly.
-
 ---------------------------------------------------------------------------------------------------------------------------------------
 ## Washing Machine Case Study - II
 
