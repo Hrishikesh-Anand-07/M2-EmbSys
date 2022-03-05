@@ -16,20 +16,20 @@ It Displays Time in hours and Minutes. It Should be able to match the timezones 
 
 ## SWOT ANALYSIS
 ### Strengths 
-* Able to Reset the time.
-* Real time time display.
-* Can adjust hours and minutes to ones need.
+ Able to Reset the time.
+  Real time time display.
+  Can adjust hours and minutes to ones need.
 
 ### Weakness
-* Not able to Load Seconds.
+ Not able to Load Seconds.
 
 ### Opportunities
-* Can add Alarm
-* Can add Date Display
+ Can add Alarm. 
+  Can add Date Display.
 
 ### Threats
-* Lack of technology.
-* Can get broken easily.
+ Lack of technology.
+ Can get broken easily.
 
 ## 4W and 1H
 
