@@ -1,4 +1,3 @@
-
 # Digital Clock
 
 ## Description
@@ -18,24 +17,22 @@ It Displays Time in hours and Minutes. It Should be able to match the timezones 
 |LLR_02|Simulation|
 
 ## SWOT ANALYSIS
-**Strengths** 
-- Able to Reset the time.
-- Real time time display.
-- Can adjust hours and minutes to ones need.
+### Strengths 
+* Able to Reset the time.
+* Real time time display.
+* Can adjust hours and minutes to ones need.
 
-**Weakness**
-- Not able to Load Seconds.
+### Weakness
+* Not able to Load Seconds.
 
-**Opportunities**
+### Opportunities
+* Can add Alarm
+* Can add Date Display
 
-- Can add Alarm
-- Can add Date Display
+### Threats
+* Lack of technology.
+* Can get broken easily.
 
-**Threats**
-- Lack of technology.
-- Can get broken easily.
-
- 
 ## 4W and 1H
 
 **What** - A digital clock to see current time.
