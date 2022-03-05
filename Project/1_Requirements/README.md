@@ -46,5 +46,5 @@ It Displays Time in hours and Minutes. It Should be able to match the timezones 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 ## BLOCK DIAGRAM
 
-![DigitalClock](https://user-images.githubusercontent.com/98881640/155761129-721b4c8d-eefa-45f9-b45b-4311c40ae582.png)
+![Digital-Clock](https://user-images.githubusercontent.com/98881640/155761129-721b4c8d-eefa-45f9-b45b-4311c40ae582.png)
 
