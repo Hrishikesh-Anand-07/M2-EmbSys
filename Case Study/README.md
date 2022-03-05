@@ -1,6 +1,6 @@
 # Microwave Oven Case Study - I
 ## LCD Display
-* Displays the amount of time we set for cooking and different modes of cooking.
+ Displays the amount of time we set for cooking and different modes of cooking.
 ## Buttons/Touch Screen 
 * Helps us in selecting time and mode of cooking.
 ## Safety Sensor
