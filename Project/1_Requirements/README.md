@@ -1,20 +1,24 @@
 # Digital Clock
+
 ## Description
 It Displays Time in hours and Minutes. It Should be able to match the timezones as required. It is also used to fix alarm.
 
 ## High Level Requirements
+
 |ID|Description|Category|
 |:-|:----------|:-------|
 |HLR_01|Adding Hours and Minutes|Software|
 |HLR_02|Understanding Atmega328|Software|
 
 ## Low Level Requirements
+
 |ID|Description|
 |:-|:----------|
 |LLR_01|Circuit Design|
 |LLR_02|Simulation|
 
 ## SWOT ANALYSIS
+
 ### Strengths 
  Able to Reset the time.
   Real time time display.
