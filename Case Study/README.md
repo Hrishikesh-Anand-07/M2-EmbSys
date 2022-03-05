@@ -4,8 +4,10 @@
 
 ## LCD Display
 * Displays the amount of time we set for cooking and different modes of cooking.
-## Buttons/Touch Screen
+
+## Buttons/Touch Screen 
 * Helps us in selecting time and mode of cooking.
+
 ## Safety Sensor
 * This Safety lock sensor gives data to Micro Controller whether door is open or close while cooking. 
 ## Actuator (Safety Lock)
@@ -36,5 +38,3 @@
 ## Washing Machine Case Study - II
 
 ![Washing Machine](https://user-images.githubusercontent.com/98881640/154894111-2611f8fc-08cc-44f3-a003-1e3dc7350f1d.png)
-
-
