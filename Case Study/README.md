@@ -1,21 +1,11 @@
-## Microwave Oven Case Study - I
-
-![Microwave Oven Block Diagram](https://user-images.githubusercontent.com/98881640/154886821-fbe6f7f2-7ec0-4587-918a-93d98e401772.png)
-
+# Microwave Oven Case Study - I
 ## LCD Display
-
 * Displays the amount of time we set for cooking and different modes of cooking.
-
 ## Buttons/Touch Screen 
-
 * Helps us in selecting time and mode of cooking.
-
 ## Safety Sensor
-
 * This Safety lock sensor gives data to Micro Controller whether door is open or close while cooking. 
-
 ## Actuator (Safety Lock)
-
 * Stops the oven if door is open while cooking
 ## Motor Driver
 * Used to drive the motor (Actuator)
@@ -37,7 +27,5 @@
 * Heats and cools the system according to the temperature with the help of microcontroller
 ## MicroController
 * Performs all the important operations and helps our oven to work correctly without any damages by controlling all the inputs and outputs accordingly.
----------------------------------------------------------------------------------------------------------------------------------------
-## Washing Machine Case Study - II
 
-![Washing Machine](https://user-images.githubusercontent.com/98881640/154894111-2611f8fc-08cc-44f3-a003-1e3dc7350f1d.png)
+![Microwave Oven Block Diagram](https://user-images.githubusercontent.com/98881640/154886821-fbe6f7f2-7ec0-4587-918a-93d98e401772.png)
