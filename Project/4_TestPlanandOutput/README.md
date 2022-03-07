@@ -18,3 +18,4 @@
 
 # CIRCUIT DIAGRAM
 
+![Digital-Clock](https://user-images.githubusercontent.com/98881640/157086538-e30b07e8-fd5c-4416-8043-ef9c6c8b3ede.png)
