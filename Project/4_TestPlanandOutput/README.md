@@ -12,3 +12,9 @@
 |LLR_01|Circuit Design|Implemented|
 |LLR_02|Simulation|Implemented|
 
+# BLOCK DIAGRAM
+
+![Digital-Clock](https://user-images.githubusercontent.com/98881640/155761129-721b4c8d-eefa-45f9-b45b-4311c40ae582.png)
+
+# CIRCUIT DIAGRAM
+
